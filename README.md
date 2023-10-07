@@ -1,2 +1,2 @@
 # Seat-Control-Manger-AUTOSAR
-AUTOSAR Application For controlling the driver Seat 
+The Seat Manager Model is an integral part of an automotive system, responsible for controlling various aspects of the vehicle's seats. This configuration project involves setting up the Seat Manager Model using the Sprint Autosar Authoring Tool (SAAT). It includes the configuration of Software Components (SWCs), ports, port interfaces, assembly connections, and data mapping.
